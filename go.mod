@@ -1,4 +1,4 @@
-module protos
+module github.com/roboticcc/sso_protos
 
 go 1.22.4
 

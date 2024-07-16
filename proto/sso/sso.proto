@@ -30,7 +30,7 @@ message LoginResponse {
 }
 
 message IsAdminRequest {
-  string token = 1;
+  string user_id = 1;
 }
 
 message IsAdminResponse {
